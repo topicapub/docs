@@ -1,5 +1,7 @@
 # Topica Network Node
 
+[Code Repository](https://github.com/topicapub/topica-node)
+
 The Topica network is a distributed system made up of independent nodes.
 Topica nodes serve as storage for the network, and communicate using the
 Topica protocols. Topica nodes are networked in such a way that information
