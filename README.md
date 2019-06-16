@@ -12,5 +12,5 @@ implementation complies with the Topica interfaces and formats.
 
 ## Core Components
 
-- [Topica Node][overview/node.md]
-- [Topica Database][overview/database.md]
+- [Topica Node](overview/node.md)
+- [Topica Database](overview/database.md)
